@@ -1,0 +1,408 @@
+2016-11-28 00:20:36,901 INFO  [main] Browser started
+2016-11-28 00:20:46,184 INFO  [main] Login page opened
+2016-11-28 00:20:47,666 INFO  [main] Login performed
+2016-11-28 00:24:56,918 INFO  [main] Browser started
+2016-11-28 00:25:12,348 INFO  [main] Login page opened
+2016-11-28 00:25:17,091 INFO  [main] Login performed
+2016-11-28 00:36:24,312 INFO  [main] Browser started
+2016-11-28 00:36:42,972 INFO  [main] Login page opened
+2016-11-28 00:36:48,869 INFO  [main] Login performed
+2016-11-28 00:38:49,899 INFO  [main] Browser started
+2016-11-28 00:38:59,399 INFO  [main] Login page opened
+2016-11-28 00:39:01,987 INFO  [main] Login performed
+2016-11-28 00:39:01,989 INFO  [main] Login succeed
+2016-11-28 00:53:23,251 INFO  [main] Browser started
+2016-11-28 00:53:33,180 INFO  [main] Login page opened
+2016-11-28 00:53:34,757 INFO  [main] Login performed
+2016-11-28 00:53:34,759 INFO  [main] Language changed succeed
+2016-11-28 00:54:21,149 INFO  [main] Browser started
+2016-11-28 00:54:31,168 INFO  [main] Login page opened
+2016-11-28 00:54:36,120 INFO  [main] Login performed
+2016-11-28 00:54:36,120 INFO  [main] Language changed succeed
+2016-11-28 00:58:03,230 INFO  [main] Browser started
+2016-11-28 00:58:20,064 INFO  [main] Login page opened
+2016-11-28 00:58:26,651 INFO  [main] Login performed
+2016-11-28 00:59:04,774 INFO  [main] Browser started
+2016-11-28 00:59:15,072 INFO  [main] Login page opened
+2016-11-28 00:59:16,776 INFO  [main] Login performed
+2016-11-28 01:00:27,131 INFO  [main] Browser started
+2016-11-28 01:00:36,774 INFO  [main] Login page opened
+2016-11-28 01:00:38,351 INFO  [main] Login performed
+2016-11-28 01:04:20,950 INFO  [main] Browser started
+2016-11-28 01:06:29,355 INFO  [main] Browser started
+2016-11-28 01:06:44,976 INFO  [main] Login page opened
+2016-11-28 01:06:49,763 INFO  [main] Login performed
+2016-11-28 01:07:06,851 INFO  [main] Login page opened
+2016-11-28 01:08:05,056 INFO  [main] Browser started
+2016-11-28 01:08:16,471 INFO  [main] Login page opened
+2016-11-28 01:08:17,835 INFO  [main] Login performed
+2016-11-28 01:09:03,101 INFO  [main] Browser started
+2016-11-28 01:09:12,245 INFO  [main] Login page opened
+2016-11-28 01:09:13,916 INFO  [main] Login performed
+2016-11-28 01:09:39,904 INFO  [main] Browser started
+2016-11-28 01:09:50,974 INFO  [main] Login page opened
+2016-11-28 01:09:52,395 INFO  [main] Login performed
+2016-11-28 01:09:52,410 INFO  [main] Login succeed
+2016-11-28 19:10:30,078 INFO  [main] Browser started
+2016-11-28 19:12:37,720 INFO  [main] Browser started
+2016-11-28 19:12:55,053 INFO  [main] Login page opened
+2016-11-28 19:13:03,809 INFO  [main] Login performed
+2016-11-28 19:13:03,809 INFO  [main] Login succeed
+2016-11-28 19:13:46,650 INFO  [main] Browser started
+2016-11-28 19:13:57,836 INFO  [main] Login page opened
+2016-11-28 19:14:00,600 INFO  [main] Login performed
+2016-11-28 19:27:02,718 INFO  [main] Browser started
+2016-11-28 19:29:17,691 INFO  [main] Browser started
+2016-11-28 19:29:29,963 INFO  [main] Login page opened
+2016-11-28 19:29:31,825 INFO  [main] Login performed
+2016-11-28 19:31:22,823 INFO  [main] Browser started
+2016-11-28 19:32:36,011 INFO  [main] Browser started
+2016-11-28 19:32:49,478 INFO  [main] Login page opened
+2016-11-28 19:32:56,216 INFO  [main] Login performed
+2016-11-28 19:33:07,099 INFO  [main] Profile page opened
+2016-11-28 19:37:59,246 INFO  [main] Browser started
+2016-11-28 19:38:11,064 INFO  [main] Login page opened
+2016-11-28 19:38:12,517 INFO  [main] Login performed
+2016-11-28 19:38:18,825 INFO  [main] Profile page opened
+2016-11-28 19:38:19,981 INFO  [main] Language changed
+2016-11-28 19:41:15,843 INFO  [main] Browser started
+2016-11-28 19:42:27,485 INFO  [main] Browser started
+2016-11-28 19:42:42,683 INFO  [main] Login page opened
+2016-11-28 19:42:49,343 INFO  [main] Login performed
+2016-11-28 19:42:54,184 INFO  [main] Profile page opened
+2016-11-28 19:42:55,262 INFO  [main] Language changed
+2016-11-28 19:46:06,407 INFO  [main] Browser started
+2016-11-28 19:46:16,945 INFO  [main] Login page opened
+2016-11-28 19:46:19,316 INFO  [main] Login performed
+2016-11-28 19:46:25,666 INFO  [main] Profile page opened
+2016-11-28 19:46:26,854 INFO  [main] Language changed
+2016-11-28 19:53:43,292 INFO  [main] Browser started
+2016-11-28 19:56:02,108 INFO  [main] Browser started
+2016-11-28 19:56:14,481 INFO  [main] Login page opened
+2016-11-28 19:56:16,546 INFO  [main] Login performed
+2016-11-28 19:56:22,114 INFO  [main] Profile page opened
+2016-11-28 19:56:23,302 INFO  [main] Language changed
+2016-11-28 20:07:25,333 INFO  [main] Browser started
+2016-11-28 20:07:41,027 INFO  [main] Login page opened
+2016-11-28 20:07:42,777 INFO  [main] Login performed
+2016-11-28 20:07:48,855 INFO  [main] Profile page opened
+2016-11-28 20:07:49,824 INFO  [main] Language changed
+2016-11-28 20:10:34,027 INFO  [main] Browser started
+2016-11-28 20:10:44,642 INFO  [main] Login page opened
+2016-11-28 20:10:47,073 INFO  [main] Login performed
+2016-11-28 20:10:52,701 INFO  [main] Profile page opened
+2016-11-28 20:10:53,857 INFO  [main] Language changed
+2016-11-28 20:11:05,301 INFO  [main] Browser started
+2016-11-28 20:11:14,387 INFO  [main] Login page opened
+2016-11-28 20:11:16,448 INFO  [main] Login performed
+2016-11-28 20:11:16,450 INFO  [main] Login succeed
+2016-11-28 20:15:23,581 INFO  [main] Browser started
+2016-11-28 20:15:31,732 INFO  [main] Login page opened
+2016-11-28 20:15:34,420 INFO  [main] Login performed
+2016-11-28 20:15:40,596 INFO  [main] Profile page opened
+2016-11-28 20:15:41,878 INFO  [main] Language changed
+2016-11-28 20:15:41,878 INFO  [main] Language changed succeed
+2016-11-28 20:18:18,314 INFO  [main] Browser started
+2016-11-28 20:20:06,831 INFO  [main] Browser started
+2016-11-28 20:20:15,340 INFO  [main] Login page opened
+2016-11-28 20:20:17,680 INFO  [main] Login performed
+2016-11-28 20:20:23,439 INFO  [main] Profile page opened
+2016-11-28 20:20:24,689 INFO  [main] Language changed
+2016-11-28 20:20:24,689 INFO  [main] Language changed succeed
+2016-11-28 20:20:24,924 INFO  [main] Новые серии
+2016-11-28 20:23:34,555 INFO  [main] Browser started
+2016-11-28 20:23:50,878 INFO  [main] Login page opened
+2016-11-28 20:23:55,506 INFO  [main] Login performed
+2016-11-28 20:24:04,182 INFO  [main] Profile page opened
+2016-11-28 20:24:05,370 INFO  [main] Language changed
+2016-11-28 20:24:05,370 INFO  [main] Language changed succeed
+2016-11-28 20:24:05,557 INFO  [main] Новые серии
+2016-11-28 20:27:44,249 INFO  [main] Browser started
+2016-11-28 20:27:57,840 INFO  [main] Login page opened
+2016-11-28 20:27:59,246 INFO  [main] Login performed
+2016-11-28 20:28:04,778 INFO  [main] Profile page opened
+2016-11-28 20:28:05,778 INFO  [main] Language changed
+2016-11-28 20:28:05,778 INFO  [main] Language changed succeed
+2016-11-28 20:28:05,934 INFO  [main] Новые серии
+2016-11-28 20:30:51,037 INFO  [main] Browser started
+2016-11-28 20:31:05,597 INFO  [main] Login page opened
+2016-11-28 20:31:07,527 INFO  [main] Login performed
+2016-11-28 20:31:12,489 INFO  [main] Profile page opened
+2016-11-28 20:31:13,536 INFO  [main] Language changed
+2016-11-28 20:31:20,052 INFO  [main] Profile page opened
+2016-11-28 20:31:20,052 INFO  [main] Language changed succeed
+2016-11-28 20:31:20,599 INFO  [main] New episodes
+2016-11-28 21:02:45,636 INFO  [main] Browser started
+2016-11-28 21:02:58,533 INFO  [main] Login page opened
+2016-11-28 21:03:04,201 INFO  [main] Login performed
+2016-11-28 21:09:22,542 INFO  [main] Browser started
+2016-11-28 21:09:34,672 INFO  [main] Login page opened
+2016-11-28 21:09:35,985 INFO  [main] Login performed
+2016-11-28 21:50:09,837 INFO  [main] Browser started
+2016-11-28 21:52:00,483 INFO  [main] Browser started
+2016-11-28 21:52:14,350 INFO  [main] Login page opened
+2016-11-28 21:52:19,515 INFO  [main] Login performed
+2016-11-28 22:13:39,902 INFO  [main] Browser started
+2016-11-28 22:15:05,642 INFO  [main] Browser started
+2016-11-28 22:15:16,443 INFO  [main] Login page opened
+2016-11-28 22:15:17,993 INFO  [main] Login performed
+2016-11-28 22:15:22,607 INFO  [main] Show added
+2016-11-28 22:26:45,575 INFO  [main] Browser started
+2016-11-28 22:27:01,133 INFO  [main] Login page opened
+2016-11-28 22:27:02,945 INFO  [main] Login performed
+2016-11-28 22:27:07,381 INFO  [main] Show added
+2016-11-28 22:27:09,525 INFO  [main] Show rated
+2016-11-28 22:27:11,345 INFO  [main] Show rated successfully
+2016-11-28 23:07:42,836 INFO  [main] Browser started
+2016-11-28 23:07:58,820 INFO  [main] Login page opened
+2016-11-28 23:08:03,180 INFO  [main] Login performed
+2016-11-28 23:08:13,576 INFO  [main] Show added
+2016-11-28 23:08:17,615 INFO  [main] Episode checked
+2016-11-28 23:09:07,792 INFO  [main] Browser started
+2016-11-28 23:09:24,221 INFO  [main] Login page opened
+2016-11-28 23:09:25,747 INFO  [main] Login performed
+2016-11-28 23:09:30,025 INFO  [main] Show added
+2016-11-28 23:09:33,600 INFO  [main] Episode checked
+2016-11-28 23:24:20,937 INFO  [main] Browser started
+2016-11-28 23:24:35,561 INFO  [main] Login page opened
+2016-11-28 23:24:37,206 INFO  [main] Login performed
+2016-11-28 23:25:33,011 INFO  [main] Browser started
+2016-11-28 23:25:44,375 INFO  [main] Login page opened
+2016-11-28 23:25:46,159 INFO  [main] Login performed
+2016-11-28 23:39:50,376 INFO  [main] Browser started
+2016-11-28 23:40:08,498 INFO  [main] Login page opened
+2016-11-28 23:40:10,372 INFO  [main] Login performed
+2016-11-28 23:40:21,094 INFO  [main] УДАЛИТЬ ИЗ ДРУЗЕЙ
+2016-11-28 23:41:28,528 INFO  [main] Browser started
+2016-11-28 23:41:44,717 INFO  [main] Login page opened
+2016-11-28 23:41:49,618 INFO  [main] Login performed
+2016-11-28 23:47:54,040 INFO  [main] Browser started
+2016-11-28 23:48:10,768 INFO  [main] Login page opened
+2016-11-28 23:48:15,878 INFO  [main] Login performed
+2016-11-28 23:50:36,755 INFO  [main] Browser started
+2016-11-28 23:50:48,388 INFO  [main] Login page opened
+2016-11-28 23:50:50,313 INFO  [main] Login performed
+2016-11-28 23:51:00,812 INFO  [main] УДАЛИТЬ ИЗ ДРУЗЕЙ
+2016-11-29 00:14:08,661 INFO  [main] Browser started
+2016-11-29 00:14:26,560 INFO  [main] Login page opened
+2016-11-29 00:14:35,967 INFO  [main] Login performed
+2016-11-29 00:14:40,920 INFO  [main] Show added
+2016-11-29 00:17:03,997 INFO  [main] Browser started
+2016-11-29 00:17:15,711 INFO  [main] Login page opened
+2016-11-29 00:17:17,448 INFO  [main] Login performed
+2016-11-29 00:17:21,806 INFO  [main] Show added
+2016-11-29 00:20:01,731 INFO  [main] Browser started
+2016-11-29 00:20:12,840 INFO  [main] Login page opened
+2016-11-29 00:20:14,834 INFO  [main] Login performed
+2016-11-29 00:21:05,419 INFO  [main] Browser started
+2016-11-29 00:21:14,389 INFO  [main] Login page opened
+2016-11-29 00:21:16,947 INFO  [main] Login performed
+2016-11-29 00:21:22,961 INFO  [main] Show added
+2016-11-29 00:25:15,163 INFO  [main] Browser started
+2016-11-29 00:25:26,894 INFO  [main] Login page opened
+2016-11-29 00:25:28,524 INFO  [main] Login performed
+2016-11-29 00:25:33,984 INFO  [main] Show added
+2016-11-29 00:46:05,274 INFO  [main] Browser started
+2016-11-29 00:46:25,991 INFO  [main] Login page opened
+2016-11-29 00:46:35,827 INFO  [main] Login performed
+2016-11-29 00:47:01,089 INFO  [main] Show added
+2016-11-29 00:49:15,661 INFO  [main] Browser started
+2016-11-29 00:49:29,906 INFO  [main] Login page opened
+2016-11-29 00:49:31,650 INFO  [main] Login performed
+2016-11-29 00:49:35,389 INFO  [main] Show added
+2016-11-29 00:49:47,342 INFO  [main] Episode page opened
+2016-11-29 01:06:10,896 INFO  [main] Browser started
+2016-11-29 01:06:23,982 INFO  [main] Login page opened
+2016-11-29 01:06:26,805 INFO  [main] Login performed
+2016-11-29 01:06:31,722 INFO  [main] Show added
+2016-11-29 01:07:48,551 INFO  [main] Browser started
+2016-11-29 01:07:59,117 INFO  [main] Login page opened
+2016-11-29 01:08:01,753 INFO  [main] Login performed
+2016-11-29 01:08:07,195 INFO  [main] Show added
+2016-11-29 01:09:50,729 INFO  [main] Browser started
+2016-11-29 01:10:02,045 INFO  [main] Login page opened
+2016-11-29 01:10:03,727 INFO  [main] Login performed
+2016-11-29 01:10:08,613 INFO  [main] Show added
+2016-11-29 01:15:04,465 INFO  [main] Browser started
+2016-11-29 01:15:23,885 INFO  [main] Login page opened
+2016-11-29 01:15:31,233 INFO  [main] Login performed
+2016-11-29 01:15:37,457 INFO  [main] Show added
+2016-11-29 20:43:37,522 INFO  [main] Browser started
+2016-11-29 20:43:49,382 INFO  [main] Login page opened
+2016-11-29 20:43:52,465 INFO  [main] Login performed
+2016-11-29 20:43:56,528 INFO  [main] Show added
+2016-11-29 20:43:59,629 INFO  [main] Show rated
+2016-11-29 20:44:01,455 INFO  [main] Show rated successfully
+2016-11-29 20:47:33,921 INFO  [main] Browser started
+2016-11-29 20:47:55,758 INFO  [main] Login page opened
+2016-11-29 20:48:06,247 INFO  [main] Login performed
+2016-11-29 20:48:12,227 INFO  [main] Show added
+2016-11-29 20:51:06,772 INFO  [main] Browser started
+2016-11-29 20:51:19,560 INFO  [main] Login page opened
+2016-11-29 20:51:21,515 INFO  [main] Login performed
+2016-11-29 20:51:26,172 INFO  [main] Show added
+2016-11-29 20:52:06,994 INFO  [main] Episode page opened
+2016-11-29 20:52:07,009 INFO  [main] Episode rated
+2016-11-29 20:52:07,853 INFO  [main] rgb(0, 102, 208)
+2016-11-29 20:53:12,704 INFO  [main] Browser started
+2016-11-29 20:53:22,950 INFO  [main] Login page opened
+2016-11-29 20:53:24,731 INFO  [main] Login performed
+2016-11-29 20:53:28,632 INFO  [main] Show added
+2016-11-29 20:54:04,588 INFO  [main] Episode page opened
+2016-11-29 20:54:04,588 INFO  [main] Episode rated
+2016-11-29 21:01:07,593 INFO  [main] Browser started
+2016-11-29 21:01:26,552 INFO  [main] Login page opened
+2016-11-29 21:01:27,850 INFO  [main] Login performed
+2016-11-29 21:01:32,152 INFO  [main] Show added
+2016-11-29 21:03:06,554 INFO  [main] Browser started
+2016-11-29 21:03:17,338 INFO  [main] Login page opened
+2016-11-29 21:03:18,824 INFO  [main] Login performed
+2016-11-29 21:03:22,121 INFO  [main] Show added
+2016-11-29 21:04:00,667 INFO  [main] Episode page opened
+2016-11-29 21:04:00,668 INFO  [main] Episode rated
+2016-11-29 21:05:11,535 INFO  [main] Browser started
+2016-11-29 21:05:24,550 INFO  [main] Login page opened
+2016-11-29 21:05:26,166 INFO  [main] Login performed
+2016-11-29 21:05:30,485 INFO  [main] Show added
+2016-11-29 21:06:09,970 INFO  [main] Episode page opened
+2016-11-29 21:06:09,986 INFO  [main] Episode rated
+2016-11-29 21:06:10,956 INFO  [main] 
+2016-11-29 21:10:44,930 INFO  [main] Browser started
+2016-11-29 21:10:58,433 INFO  [main] Login page opened
+2016-11-29 21:10:59,984 INFO  [main] Login performed
+2016-11-29 21:11:04,443 INFO  [main] Show added
+2016-11-29 21:12:23,704 INFO  [main] Browser started
+2016-11-29 21:12:39,450 INFO  [main] Login page opened
+2016-11-29 21:12:41,232 INFO  [main] Login performed
+2016-11-29 21:12:44,506 INFO  [main] Show added
+2016-11-29 21:14:10,348 INFO  [main] Browser started
+2016-11-29 21:14:39,746 INFO  [main] Login page opened
+2016-11-29 21:14:41,548 INFO  [main] Login performed
+2016-11-29 21:14:46,354 INFO  [main] Show added
+2016-11-29 21:19:27,737 INFO  [main] Browser started
+2016-11-29 21:19:40,749 INFO  [main] Login page opened
+2016-11-29 21:19:43,973 INFO  [main] Login performed
+2016-11-29 21:19:47,894 INFO  [main] Show added
+2016-11-29 21:19:55,366 INFO  [main] Episode page opened
+2016-11-29 21:19:55,367 INFO  [main] Episode rated
+2016-11-29 21:19:55,895 INFO  [main] elementRate  _rate5
+2016-11-29 21:21:15,930 INFO  [main] Browser started
+2016-11-29 21:21:38,594 INFO  [main] Login page opened
+2016-11-29 21:21:40,707 INFO  [main] Login performed
+2016-11-29 21:21:45,418 INFO  [main] Show added
+2016-11-29 21:21:59,075 INFO  [main] Episode page opened
+2016-11-29 21:21:59,091 INFO  [main] Episode rated
+2016-11-29 21:21:59,503 INFO  [main] elementRate  _rate5
+2016-11-29 21:35:15,349 INFO  [main] Browser started
+2016-11-29 21:35:25,115 INFO  [main] Login page opened
+2016-11-29 21:35:26,783 INFO  [main] Login performed
+2016-11-29 21:35:31,623 INFO  [main] Show added
+2016-11-29 21:35:41,674 INFO  [main] Episode page opened
+2016-11-29 21:35:41,675 INFO  [main] Comment added
+2016-11-29 21:44:54,959 INFO  [main] Browser started
+2016-11-29 21:45:06,304 INFO  [main] Login page opened
+2016-11-29 21:45:08,985 INFO  [main] Login performed
+2016-11-29 21:45:13,394 INFO  [main] Show added
+2016-11-29 21:46:42,977 INFO  [main] Browser started
+2016-11-29 21:46:58,714 INFO  [main] Login page opened
+2016-11-29 21:47:06,820 INFO  [main] Login performed
+2016-11-29 21:47:12,107 INFO  [main] Show added
+2016-11-29 21:47:25,481 INFO  [main] Episode page opened
+2016-11-29 21:47:26,037 INFO  [main] Отличная серия!
+2016-11-29 22:02:07,531 INFO  [main] Browser started
+2016-11-29 22:02:24,670 INFO  [main] Login page opened
+2016-11-29 22:02:34,102 INFO  [main] Login performed
+2016-11-29 22:02:41,382 INFO  [main] Show added
+2016-11-29 22:03:05,373 INFO  [main] Episode page opened
+2016-11-29 22:03:05,373 INFO  [main] Comment rated
+2016-11-29 22:04:14,427 INFO  [main] Browser started
+2016-11-29 22:04:25,119 INFO  [main] Login page opened
+2016-11-29 22:04:26,796 INFO  [main] Login performed
+2016-11-29 22:04:31,186 INFO  [main] Show added
+2016-11-29 22:04:45,160 INFO  [main] Episode page opened
+2016-11-29 22:04:45,160 INFO  [main] Comment rated
+2016-11-29 22:24:03,792 INFO  [main] Browser started
+2016-11-29 22:24:24,113 INFO  [main] Login page opened
+2016-11-29 22:24:26,751 INFO  [main] Login performed
+2016-11-29 22:24:32,786 INFO  [main] Show added
+2016-11-29 22:24:36,813 INFO  [main] Show added to favorites
+2016-11-29 22:25:57,402 INFO  [main] Browser started
+2016-11-29 22:26:08,689 INFO  [main] Login page opened
+2016-11-29 22:26:11,210 INFO  [main] Login performed
+2016-11-29 22:26:16,679 INFO  [main] Show added
+2016-11-29 22:26:20,529 INFO  [main] Show added to favorites
+2016-11-29 22:26:24,181 INFO  [main] presentBlockBookmark
+2016-11-29 22:45:31,241 INFO  [main] Browser started
+2016-11-29 22:45:49,224 INFO  [main] Login page opened
+2016-11-29 22:45:54,928 INFO  [main] Login performed
+2016-11-29 22:46:03,268 INFO  [main] Show added
+2016-11-29 22:46:03,279 INFO  [main] Show added to 'Watching' 
+2016-11-29 22:46:21,954 INFO  [main] Episode page opened
+2016-11-29 22:46:21,955 INFO  [main] Comment added
+2016-11-29 22:46:48,122 INFO  [main] Browser started
+2016-11-29 22:47:05,568 INFO  [main] Login page opened
+2016-11-29 22:47:07,414 INFO  [main] Login performed
+2016-11-29 22:47:20,331 INFO  [main] Friend added
+2016-11-29 22:47:41,289 INFO  [main] Browser started
+2016-11-29 22:48:05,417 INFO  [main] Login page opened
+2016-11-29 22:48:12,026 INFO  [main] Login performed
+2016-11-29 22:48:18,310 INFO  [main] Show added
+2016-11-29 22:48:18,312 INFO  [main] Show added to 'Watching' 
+2016-11-29 22:49:23,215 INFO  [main] Browser started
+2016-11-29 22:49:48,544 INFO  [main] Login page opened
+2016-11-29 22:49:57,923 INFO  [main] Login performed
+2016-11-29 22:53:03,118 INFO  [main] Browser started
+2016-11-29 22:53:14,774 INFO  [main] Login page opened
+2016-11-29 22:53:17,961 INFO  [main] Login performed
+2016-11-29 22:53:25,775 INFO  [main] Profile page opened
+2016-11-29 22:53:27,843 INFO  [main] Language changed
+2016-11-29 22:53:38,983 INFO  [main] English profile page opened
+2016-11-29 22:54:01,601 INFO  [main] Browser started
+2016-11-29 22:54:17,889 INFO  [main] Login page opened
+2016-11-29 22:54:20,002 INFO  [main] Login performed
+2016-11-29 22:54:27,525 INFO  [main] Show added
+2016-11-29 22:54:27,527 INFO  [main] Show added to 'Watching' 
+2016-11-29 22:54:32,916 INFO  [main] Episode checked
+2016-11-29 22:54:58,258 INFO  [main] Browser started
+2016-11-29 22:55:10,569 INFO  [main] Login page opened
+2016-11-29 22:55:13,302 INFO  [main] Login performed
+2016-11-29 22:55:38,774 INFO  [main] Browser started
+2016-11-29 22:55:50,320 INFO  [main] Login page opened
+2016-11-29 22:55:52,874 INFO  [main] Login performed
+2016-11-29 22:55:59,535 INFO  [main] Show added
+2016-11-29 22:55:59,538 INFO  [main] Show added to 'Watching' 
+2016-11-29 22:56:18,903 INFO  [main] Episode page opened
+2016-11-29 22:56:18,904 INFO  [main] Comment rated
+2016-11-29 22:56:41,523 INFO  [main] Browser started
+2016-11-29 22:56:53,526 INFO  [main] Login page opened
+2016-11-29 22:56:56,148 INFO  [main] Login performed
+2016-11-29 22:57:03,345 INFO  [main] Show added
+2016-11-29 22:57:03,347 INFO  [main] Show added to 'Watching' 
+2016-11-29 22:57:25,815 INFO  [main] Episode page opened
+2016-11-29 22:57:25,816 INFO  [main] Episode rated
+2016-11-29 22:57:51,937 INFO  [main] Browser started
+2016-11-29 22:58:03,479 INFO  [main] Login page opened
+2016-11-29 22:58:06,566 INFO  [main] Login performed
+2016-11-29 22:58:12,937 INFO  [main] Show added
+2016-11-29 22:58:12,939 INFO  [main] Show added to 'Watching' 
+2016-11-29 22:58:16,201 INFO  [main] Show rated
+2016-11-29 23:04:04,788 INFO  [main] Browser started
+2016-11-29 23:04:32,729 INFO  [main] Login page opened
+2016-11-29 23:04:41,793 INFO  [main] Login performed
+2016-11-29 23:04:49,176 INFO  [main] Show added
+2016-11-29 23:04:49,185 INFO  [main] Show added to 'Watching' 
+2016-11-29 23:04:59,767 INFO  [main] Show added to favorites
+2016-11-29 23:07:22,036 INFO  [main] Browser started
+2016-11-29 23:07:34,401 INFO  [main] Login page opened
+2016-11-29 23:07:36,028 INFO  [main] Login performed
+2016-11-29 23:07:40,336 INFO  [main] Show added
+2016-11-29 23:07:40,348 INFO  [main] Show added to 'Watching' 
+2016-11-29 23:07:43,766 INFO  [main] Show added to favorites
+2016-11-29 23:07:46,478 INFO  [main] presentBlockBookmark  _active
+2016-11-29 23:10:16,182 INFO  [main] Browser started
+2016-11-29 23:10:28,005 INFO  [main] Login page opened
+2016-11-29 23:10:30,956 INFO  [main] Login performed
+2016-11-29 23:10:35,990 INFO  [main] Show added
+2016-11-29 23:10:35,999 INFO  [main] Show added to 'Watching' 
+2016-11-29 23:10:39,810 INFO  [main] Show added to favorites
+2016-11-29 23:10:43,588 INFO  [main] presentBlockBookmark  _active
